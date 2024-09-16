@@ -1,9 +1,11 @@
-## Hi, I'm Nilayah Peter!
-I'm interested in
+## Hi, I'm Nilayah Peter! 🤍
+
+💻 I'm interested in
   - Software Engineering
   - Video Game Development
   - Embedded Systems
-My hobbies are
+
+🧶 My hobbies are
   - Crocheting
   - Volunteering
   - Playing video games
