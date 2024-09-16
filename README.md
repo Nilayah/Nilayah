@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Nilayah Peter!
+I'm interested in
+  - Software Engineering
+  - Video Game Development
+  - Embedded Systems
+My hobbies are
+  - Crocheting
+  - Volunteering
+  - Playing video games
+  - Hanging out with friends
 
 <!--
 **Nilayah/Nilayah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
